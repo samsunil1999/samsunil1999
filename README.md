@@ -2,6 +2,7 @@
 
 
 Welcome to my Github landing page!<br>
+
 I build **scalable, distributed, and innovative software solutions** — from blockchain applications to cloud-native microservices. Currently pursuing my **MS in Computer Science** at the [University of Illinois Springfield](https://www.uis.edu/) (graduating by Dec 2025) and exploring everything from **ML models** to **frontend magic**.  
 
 - 🔭 I’m currently working on **my personal project(first time trying to build something of my own)**
